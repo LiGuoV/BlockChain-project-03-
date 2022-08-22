@@ -1,5 +1,12 @@
-> UML 4in1
-> https://drive.google.com/file/d/1SJJL8wUG8MHUvPvGo0eH5ZNaAIacKaly/view
+>UML
+-  activaty(lite)
+![](UMLs/activaty.png)
+- Sequence
+![](UMLs/sequence.png)
+- state
+![](UMLs/state.png)
+- class
+![](UMLs/class.png)
 
 > init 
 ```shell
@@ -9,10 +16,18 @@ npm install web3
 npm install @truffle/hdwallet-provider
 
 $ truffle version
+// framework for develop & test & deploy 
 > Truffle v5.5.27 (core: 5.5.27)
+
+// local blockchain
 > Ganache v7.4.0
+
+// compiler smartcontracts
 > Solidity v0.5.16 (solc-js)
+
 > Node v16.13.1
+
+// interact with ethNode
 > Web3.js v1.7.4
 ```
 > [truffle-assertions](https://www.npmjs.com/package/truffle-assertions) This package adds additional assertions that can be used to test Ethereum smart contracts inside Truffle tests.
