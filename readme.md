@@ -1,11 +1,14 @@
 >UML
--  activaty(lite)
+-  activaty(lite)  
 ![](UMLs/activaty.png)
-- Sequence
+
+- Sequence  
 ![](UMLs/sequence.png)
-- state
+
+- state  
 ![](UMLs/state.png)
-- class
+
+- class  
 ![](UMLs/class.png)
 
 > init 
